@@ -1,0 +1,7 @@
+'This is the Command Promt Editor, Type in an Argument to Run a a Vbs
+'Save this document as a .vbs document
+Do
+	Cmd = MsgBox "users>Pc:"
+	If Cmd = Time:
+		Now()
+Loop

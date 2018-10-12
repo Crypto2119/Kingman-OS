@@ -1,0 +1,8 @@
+Sentinel is a Operating System Made to Keep your Files Safe in a Directory
+It also Has the Properties of an Operating System, it Has a Command Prompt, and Time Keeper
+Every Kingsman Drive has Been Equipped With This File to Keep the Files Safe
+
+ChangeLog:
+
+V.0: Made Arbiter, The Security File Keeps Files Safe By Hiding It
+V.1: Changed Program to Sentinel, Turned Prompts to a More Secure Method, Also Added Legal Section For Operator Protection
